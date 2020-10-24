@@ -1,0 +1,2 @@
+# Restaurant-McDonal-Ordering-System
+An online booking system for the customers. The booking process requires customers to start by setting the date and time of coming to the restaurant from the saved restaurant operating hours. They then choose what to order from the menu list, the list is stored in the database and its price information, so that the customers can see an invoice with the total amount of money that they need to pay. 
